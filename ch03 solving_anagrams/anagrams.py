@@ -1,4 +1,5 @@
 import load_dictionary
+"""Project #4 Find palingrams in dictionary file: Nurses Run => nuR sesruN"""
 
 
 # two words must be the same length

@@ -1,4 +1,4 @@
-"""Generate funny names by randomly combining names from 2 separate lists."""
+"""PROJECT #1 Generate funny names by randomly combining names from 2 separate lists."""
 import sys
 import random
 

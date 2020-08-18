@@ -1,4 +1,4 @@
-"""Find palindromes in dictionary file"""
+"""Project #2 Find palindromes in dictionary file"""
 import load_dictionary
 
 word_list = load_dictionary.load("lista.txt")
